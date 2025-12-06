@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá, eu sou Arthur! 👋
+## Desenvolvedor Backend | Python & Segurança da Informação
 
-<!--
-**1arley/1arley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um entusiasta de tecnologia e estudante na UFRPE, focado em criar soluções robustas e seguras. O meu foco atual é o desenvolvimento backend, arquitetura de software e segurança de aplicações.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Ferramentas
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projeto em Destaque: Pegai
+> *Um sistema de caronas universitárias focado em segurança e validação.*
+
+Recentemente desenvolvi o **Pegai**, uma aplicação CLI complexa que simula um ambiente de produção real. Este projeto não foi apenas sobre "fazer funcionar", mas sobre construir com arquitetura e segurança desde a base.
+
+**Destaques Técnicos do Projeto:**
+* **🔒 Segurança Avançada:** Implementação de Autenticação de Dois Fatores (2FA) via SMTP e hashing de senhas com `bcrypt` para proteção de dados sensíveis.
+* **🏗️ Arquitetura MVC:** Separação clara de responsabilidades entre Modelos (Banco de Dados), Controladores (Lógica de Negócio) e Views (Interface CLI).
+* **🗄️ Modelagem de Dados:** Criação manual de esquemas relacionais em SQL (SQLite) gerindo integridade entre Usuários, Rotas e Veículos.
+* **🗺️ Geolocalização Real:** Integração com API `geopy` para cálculo de distâncias e precificação dinâmica.
+
+[**Ver Código Fonte**](./link-para-o-repositorio-do-pegai)
+
+---
+
+### 📊 Estatísticas do GitHub
+![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula)
+
+### 📫 Vamos conectar?
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_TEU_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
