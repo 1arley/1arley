@@ -22,12 +22,12 @@ Recentemente desenvolvi o **Pegai**, uma aplicação CLI complexa que simula um 
 * **🗄️ Modelagem de Dados:** Criação manual de esquemas relacionais em SQL (SQLite) gerindo integridade entre Usuários, Rotas e Veículos.
 * **🗺️ Geolocalização Real:** Integração com API `geopy` para cálculo de distâncias e precificação dinâmica.
 
-[**Ver Código Fonte**](./https://github.com/1arley/Pegai)
+[**Ver Código Fonte**](./Pegai)
 
 ---
 
 ### 📊 Estatísticas do GitHub
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula)
+![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=1arley&show_icons=true&theme=dracula)
 
 ### 📫 Vamos conectar?
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthuriarley/)
