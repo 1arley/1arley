@@ -22,7 +22,7 @@ Recentemente desenvolvi o **Pegai**, uma aplicação CLI complexa que simula um 
 * **🗄️ Modelagem de Dados:** Criação manual de esquemas relacionais em SQL (SQLite) gerindo integridade entre Usuários, Rotas e Veículos.
 * **🗺️ Geolocalização Real:** Integração com API `geopy` para cálculo de distâncias e precificação dinâmica.
 
-[**Ver Código Fonte**](./1arley/Pegai)
+[**Ver Código Fonte**](https://github.com/1arley/pegai)
 
 ---
 
