@@ -26,9 +26,6 @@ Recentemente desenvolvi o **Pegai**, uma aplicação CLI complexa que simula um 
 
 ---
 
-### 📊 Estatísticas do GitHub
-![Arthur's GitHub stats](github-readme-statss-ten-delta.vercel.app/api?username=1arley&show_icons=true&theme=dracula)
-
 ### 📫 Vamos conectar?
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthuriarley/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=arthuriarley323@gmail.com)
