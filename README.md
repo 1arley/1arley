@@ -1,5 +1,5 @@
 # Olá, eu sou Arthur! 👋
-## Desenvolvedor Backend | Python & Segurança da Informação
+## Desenvolvedor Backend | Python, Node & Segurança da Informação
 
 Sou um entusiasta de tecnologia e estudante na UFRPE, focado em criar soluções robustas e seguras. O meu foco atual é o desenvolvimento backend, arquitetura de software e segurança de aplicações.
 
