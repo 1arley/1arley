@@ -2,7 +2,7 @@
 
 ## Desenvolvedor Backend | TypeScript, Node.js, Python & Segurança da Informação
 
-Sou estudante de **Sistemas de Informação na UFRPE** e atuo como **Analista de Projetos na Seed a Bit Tecnologia**. Gosto de construir software com arquitetura sólida e segurança desde a base — desde APIs REST bem modeladas até fluxos completos de autenticação e CI/CD.
+Sou estudante de **Sistemas de Informação na UFRPE**, **Analista de Projetos na Seed a Bit Tecnologia** e **CTO da SmartRU**, onde tomo as decisões de arquitetura de software. Gosto de construir software com arquitetura sólida e segurança desde a base — desde APIs REST bem modeladas até fluxos completos de autenticação e CI/CD.
 
 ---
 
@@ -34,9 +34,11 @@ Sou estudante de **Sistemas de Informação na UFRPE** e atuo como **Analista de
 
 ---
 
-### 💼 Experiência Profissional: SeedaBit Tecnologia
+### 💼 Experiência Profissional
 
-Na **SeedaBit Tecnologia**, desenvolvo aplicações backend em ambiente de produção real, com foco em escalabilidade e segurança.
+**SeedaBit Tecnologia — Analista de Projetos**
+
+Na **SeedaBit Tecnologia**, desenvolvo aplicações backend em ambiente de produção real, com foco em escalabilidade e segurança. Além do desenvolvimento, contribuí no **[ufrpebcc.com.br](https://ufrpebcc.com.br/)** com **infraestrutura/DevOps** e **frontend**.
 
 * **🔐 Autenticação & Autorização:** fluxos completos com **JWT** — access/refresh tokens e sistema de roles com guards e decorators customizados no NestJS.
 * **🗄️ Modelagem de Dados:** esquemas **PostgreSQL** complexos com migrations versionadas via **Prisma ORM**.
@@ -44,6 +46,10 @@ Na **SeedaBit Tecnologia**, desenvolvo aplicações backend em ambiente de produ
 * **🏗️ Arquitetura Modular:** aplicações NestJS seguindo módulos, services, controllers, interceptors e filters.
 * **🐳 DevOps & Containerização:** **Docker** e **docker-compose** para ambientes de desenvolvimento e produção.
 * **✅ Qualidade de Código:** TypeScript estrito, ESLint, Prettier, testes unitários e E2E com Jest e Supertest.
+
+**SmartRU — CTO**
+
+Como **CTO da SmartRU**, sou responsável pelas decisões de **arquitetura de software** do projeto **RU Sem Desperdício** ([semdesperdicio.smartru.com.br](https://semdesperdicio.smartru.com.br/login)), atuando tanto no **frontend** quanto no **backend** — da modelagem de dados e APIs até a experiência do usuário.
 
 ---
 
@@ -69,15 +75,13 @@ Na **SeedaBit Tecnologia**, desenvolvo aplicações backend em ambiente de produ
 | [valorant-skins-backend](https://github.com/1arley/valorant-skins-backend) | API de skins do Valorant (Python) |
 | [eventPass](https://github.com/1arley/eventPass) | API para gestão de eventos |
 | [projeto-dashboard](https://github.com/1arley/projeto-dashboard) | Dashboard com Python |
-| [Flyfood](https://github.com/1arley/Flyfood) | Aplicação em Python |
 | [1arley.github.io](https://github.com/1arley/1arley.github.io) | Meu site pessoal |
 
 ---
 
 ### 🤝 Contribuições & Open Source
 
-- **[ufrpebcc.com.br](https://ufrpebcc.com.br/)** — Contribuição pontual no site do BCC-UFRPE, atuando em **infraestrutura/DevOps** e no **frontend**.
-- **[Frontend RU Sem Desperdício](https://github.com/FilaRural-UFRPE/Frontend_RU_Sem_Desperdicio)** — Contribuição no frontend do projeto FilaRural da UFRPE.
+- **[alethe-agents](https://github.com/1arley/alethe-agents)** — Contribuição ativa no projeto open source [Kc1t/alethe-agents](https://github.com/Kc1t/alethe-agents), um workspace desktop *local-first* para executar, organizar e retomar múltiplos agentes de código.
 
 ---
 
