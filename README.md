@@ -1,91 +1,62 @@
-# Olá, eu sou Arthur! 👋
+<div align="center">
 
-## Desenvolvedor Backend | TypeScript, Node.js, Python & Segurança da Informação
+# Arthur Iarley
 
-Sou estudante de **Sistemas de Informação na UFRPE**, **Analista de Projetos na Seed a Bit Tecnologia** e **CTO da SmartRU**, onde tomo as decisões de arquitetura de software. Gosto de construir software com arquitetura sólida e segurança desde a base — desde APIs REST bem modeladas até fluxos completos de autenticação e CI/CD.
+**Desenvolvedor de software · Developer tooling · Agentes de código · Backend**
 
----
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-111827?style=flat-square&logo=vercel&logoColor=white)](https://1arley.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthuriarley/)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arthuriarley323@gmail.com)
 
-### 🛠️ Tech Stack & Ferramentas
+</div>
 
-**Backend**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<p align="center">
+  <a href="https://github.com/1arley/jev-advisor-gateway">
+    <img src="https://raw.githubusercontent.com/1arley/jev-advisor-gateway/main/media/overview.gif" width="760" alt="Demonstração animada do Jev Advisor Gateway, mostrando o fluxo entre agente de código, gateway local e Jev">
+  </a>
+  <br>
+  <sub><a href="https://github.com/1arley/jev-advisor-gateway">Jev Advisor Gateway</a> · prévia do projeto</sub>
+</p>
 
-**Banco de Dados**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
+## Sobre
 
-**Frontend**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+Sou estudante de **Sistemas de Informação na UFRPE**, Analista de Projetos na **Seed a Bit Tecnologia** e CTO da **SmartRU**. Trabalho entre backend, infraestrutura, produto e arquitetura. Nos meus projetos recentes, foco em ferramentas para agentes de código e developer experience.
 
-**DevOps & Qualidade**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-
----
-
-### 💼 Experiência Profissional
-
-**SeedaBit Tecnologia — Analista de Projetos**
-
-Na **SeedaBit Tecnologia**, desenvolvo aplicações backend em ambiente de produção real, com foco em escalabilidade e segurança. Além do desenvolvimento, contribuí no **[ufrpebcc.com.br](https://ufrpebcc.com.br/)** com **infraestrutura/DevOps** e **frontend**.
-
-* **🔐 Autenticação & Autorização:** fluxos completos com **JWT** — access/refresh tokens e sistema de roles com guards e decorators customizados no NestJS.
-* **🗄️ Modelagem de Dados:** esquemas **PostgreSQL** complexos com migrations versionadas via **Prisma ORM**.
-* **🔗 Integração & APIs:** APIs RESTful documentadas com **Swagger/OpenAPI** e validação rigorosa com `class-validator`.
-* **🏗️ Arquitetura Modular:** aplicações NestJS seguindo módulos, services, controllers, interceptors e filters.
-* **🐳 DevOps & Containerização:** **Docker** e **docker-compose** para ambientes de desenvolvimento e produção.
-* **✅ Qualidade de Código:** TypeScript estrito, ESLint, Prettier, testes unitários e E2E com Jest e Supertest.
-
-**SmartRU — CTO**
-
-Como **CTO da SmartRU**, sou responsável pelas decisões de **arquitetura de software** do projeto **RU Sem Desperdício** ([semdesperdicio.smartru.com.br](https://semdesperdicio.smartru.com.br/login)), atuando tanto no **frontend** quanto no **backend** — da modelagem de dados e APIs até a experiência do usuário.
-
----
-
-### 🚀 Projetos em Destaque
-
-**🧊 AnimesIce** — Plataforma de catálogo de animes com streaming.
-- **Backend** ([animesice-back](https://github.com/1arley/animesice-back)): API NestJS com streaming de vídeo via URLs assinadas (token + expires + IP), auth JWT, Prisma, PostgreSQL, crawl multi-fonte e CI/CD completo.
-- **Frontend** ([animesice](https://github.com/1arley/animesice)): SPA Next.js + React + TailwindCSS + TypeScript.
-
-**📅 Reserva de Salas** ([reserva-de-salas](https://github.com/1arley/reserva-de-salas)) — Sistema web para informatizar a reserva de salas de reunião, substituindo o controle por planilhas. NestJS + Next.js + PostgreSQL com roles de administrador, agenda, estatísticas e exportação CSV.
-
-**🐾 Pegai** ([Pegai](https://github.com/1arley/Pegai)) — Sistema de caronas universitárias focado em segurança e validação. CLI com arquitetura MVC, **2FA via SMTP**, hashing com `bcrypt`, SQLite e geolocalização real com `geopy`.
-
-**⚡ Dev CLI** ([devcli](https://github.com/1arley/devcli)) — *"The Raycast of the Terminal for Developers"*: CLI interativa que centraliza dezenas de utilitários do dia a dia (`docker`, `git`, `gh`, `curl`, ...) em um único comando. Distribuído no npm (`@1arley/devcli`) e como binário standalone (Node.js SEA).
-
----
-
-### 🧰 Outros Projetos
+## Projetos em destaque
 
 | Projeto | Descrição |
 |---|---|
-| [nestjs-template](https://github.com/1arley/nestjs-template) | Template de API NestJS com boas práticas |
-| [valorant-skins-backend](https://github.com/1arley/valorant-skins-backend) | API de skins do Valorant (Python) |
-| [eventPass](https://github.com/1arley/eventPass) | API para gestão de eventos |
-| [projeto-dashboard](https://github.com/1arley/projeto-dashboard) | Dashboard com Python |
-| [1arley.github.io](https://github.com/1arley/1arley.github.io) | Meu site pessoal |
+| [Jev Advisor Gateway](https://github.com/1arley/jev-advisor-gateway) | Gateway local que encaminha decisões de ferramentas de agentes de código e oferece um advisor opcional somente leitura. |
+| [VPS Observer MCP](https://github.com/1arley/vps-mcp) | Servidor MCP para observar e operar containers Docker autorizados, com autenticação e allowlist por ferramenta. |
+| [Skill Preflight](https://github.com/1arley/skill-preflight) | Auditor determinístico e offline de Agent Skills: estrutura, segurança estática, supply chain, documentação e portabilidade. |
+| [Decision-to-ADR](https://github.com/1arley/decision-to-adr) | CLI e skill para transformar registros de decisão em ADRs numerados, preservando proveniência. |
+| [AnimesIce](https://github.com/1arley/animesice) · [API](https://github.com/1arley/animesice-back) | Plataforma de catálogo e streaming de animes, com frontend Next.js e API NestJS, PostgreSQL, Prisma e Docker. |
+| [Dev CLI](https://github.com/1arley/devcli) | CLI interativa que reúne utilitários de desenvolvimento; publicada no npm como `@1arley/devcli`. |
 
----
+**Outros projetos:** [Go API](https://github.com/1arley/go-api) · [Ghostcase](https://github.com/1arley/ghostcase) — protótipo em Rust para reduzir entradas JSON que reproduzem bugs.
 
-### 🤝 Contribuições & Open Source
+## Experiência
 
-- **[alethe-agents](https://github.com/1arley/alethe-agents)** — Contribuição ativa no projeto open source [Kc1t/alethe-agents](https://github.com/Kc1t/alethe-agents), um workspace desktop *local-first* para executar, organizar e retomar múltiplos agentes de código.
+### Seed a Bit Tecnologia · Analista de Projetos
 
----
+Desenvolvo aplicações backend e integro APIs em projetos de software. Também contribuí com frontend e infraestrutura para o [UFRPE BCC](https://ufrpebcc.com.br/).
 
-### 📫 Vamos conectar?
+### SmartRU · CTO
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthuriarley/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=arthuriarley323@gmail.com)
+Participo das decisões de arquitetura e da evolução do **RU Sem Desperdício**, atuando entre frontend, backend, modelagem de dados e APIs.
+
+## Tecnologias
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
